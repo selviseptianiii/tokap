@@ -7,5 +7,5 @@ use Illuminate\Database\Eloquent\Model;
 class kategori extends Model
 {
     protected $table = 'kategori';
-    pubic $timestamps = false;
+    public $timestamps = false;
 }
