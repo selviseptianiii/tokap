@@ -23,7 +23,7 @@
 	</div>
 </div><!-- End Row -->
 
-<table class="table-striped mb-3">
+<table class="table table-striped mb-3">
 	<tr>
 		<th>Kategori</th><th>&nbsp;</th>
 	</tr>
@@ -47,4 +47,4 @@
 	->links('vendor.pagination.bootstrap-4')
 }}
 
-@endsection
+@endsection 
